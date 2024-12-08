@@ -1,7 +1,5 @@
-use core::hash;
 use std::fs::File;
 use std::io::{self, BufRead};
-use std::net;
 use std::path::Path;
 use std::collections::HashSet;
 
